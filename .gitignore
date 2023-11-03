@@ -12,3 +12,7 @@ configuration/ldap/*
 !configuration/logging.py
 !configuration/plugins.py
 super-linter.log
+.DS_Store
+docker-compose_default.yml
+volume_backup/.DS_Store
+volume_backup/netbox-media.tar.gz
